@@ -1,2 +1,17 @@
-# INERT_SYNTHETIC_DO_NOT_USE
-# Awaiting the registered controlled publication.
+{
+  "note": "INERT_SYNTHETIC_DO_NOT_USE",
+  "auths": {
+    "inert-registry-1.invalid": {
+      "auth": "aW5lcnQ6SU5FUlRfU1lOVEhFVElDX0RPX05PVF9VU0VfRm9ST25YMnFhellRMmdMdjJsUHVodk1WaXFQenNEZWY="
+    },
+    "inert-registry-2.invalid": {
+      "auth": "aW5lcnQ6SU5FUlRfU1lOVEhFVElDX0RPX05PVF9VU0VfWGZnR3RyM05sQ0o2akJraUhJMVVaTU9QN051NTRQcXI="
+    },
+    "inert-registry-3.invalid": {
+      "auth": "aW5lcnQ6SU5FUlRfU1lOVEhFVElDX0RPX05PVF9VU0VfR1pEUGpFZlJXZVRRMXBUc3dWM2hlZDhjcTIzUTVqZ2Q="
+    },
+    "inert-registry-4.invalid": {
+      "auth": "aW5lcnQ6SU5FUlRfU1lOVEhFVElDX0RPX05PVF9VU0VfNDV6cnJOZUlUVmRiSWJMbkMzcFFhMUF6RkJkR1ZrZ0M="
+    }
+  }
+}

@@ -1,2 +1,4 @@
 # INERT_SYNTHETIC_DO_NOT_USE
-# Awaiting the registered controlled publication.
+API_KEY=your_api_key
+PUBLIC_ID=e75ce41f58c42f3a2a441253e48dcbe7e0074ed04c2e7fe3
+

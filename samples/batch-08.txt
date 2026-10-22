@@ -1,2 +1,2 @@
-# INERT_SYNTHETIC_DO_NOT_USE
-# Awaiting the registered controlled publication.
+{"inert_notice": "INERT_SYNTHETIC_DO_NOT_USE", "sample_nonce": "519eab681562992bdc9e44323b9cdf86dbdf99ce4daceb0a", "apiVersion": "v1", "kind": "Config", "current-context": "inert", "contexts": [{"name": "inert", "context": {"cluster": "inert", "user": "inert"}}], "clusters": [{"name": "inert", "cluster": {"server": "https://cluster.invalid"}}], "users": [{"name": "inert", "user": {"token": "INERT_SYNTHETIC_DO_NOT_USE_endLzNHgA7sYiXgM7yA8I0cIjS6EJBJt"}}]}
+
